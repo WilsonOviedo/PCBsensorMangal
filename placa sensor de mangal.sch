@@ -30,7 +30,7 @@ U 1 1 608CAFBE
 P 3475 2365
 F 0 "TH1" H 3573 2411 50  0000 L CNN
 F 1 "PT100" H 3573 2320 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 3475 2415 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" H 3475 2415 50  0001 C CNN
 F 3 "https://www.heraeus.com/media/media/group/doc_group/products_1/hst/sot_to/de_15/to_92_d.pdf" H 3475 2415 50  0001 C CNN
 	1    3475 2365
 	1    0    0    -1  
